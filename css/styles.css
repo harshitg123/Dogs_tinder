@@ -239,4 +239,10 @@ p{
     transform: rotate(0);
     padding-top: 10%;
   }
+
+  .item-nav{
+    margin-left: 0;
+    text-align: left;
+  }
+
 }
